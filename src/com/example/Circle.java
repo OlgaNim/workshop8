@@ -1,4 +1,4 @@
-package com.example.circle;
+package com.example;
 
 /**
  * Заполните этот класс в соответсвии с заданием из лекции.
@@ -6,9 +6,10 @@ package com.example.circle;
 public class Circle {
     double radius;
 
-    public void radius (double radius) {
-        this.radius = 5.0;
+    public Circle(int circle) {
+        radius = 1;
     }
+
 
     public double getRadius() {
         return radius;
