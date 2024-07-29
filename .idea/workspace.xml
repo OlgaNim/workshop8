@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f898e430-0918-4c5d-90ef-5ee225471cab" name="Changes" comment="add in process">
+    <list default="true" id="f898e430-0918-4c5d-90ef-5ee225471cab" name="Changes" comment="add solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/example/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/TestCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +82,19 @@
       <option name="project" value="LOCAL" />
       <updated>1722197366595</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add solution">
+      <created>1722274835855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722274835855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add in process" />
-    <option name="LAST_COMMIT_MESSAGE" value="add in process" />
+    <MESSAGE value="add solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add solution" />
   </component>
 </project>

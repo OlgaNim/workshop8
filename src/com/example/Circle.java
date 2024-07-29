@@ -6,8 +6,8 @@ package com.example;
 public class Circle {
     double radius;
 
-    public Circle(int circle) {
-        radius = 1;
+    public Circle(double circle) {
+        radius = circle;
     }
 
 
